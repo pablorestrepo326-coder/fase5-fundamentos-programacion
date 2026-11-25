@@ -1,4 +1,4 @@
-# Curso: Fundamentos de Programación (213022) - Fase 5 Evaluación Final POA
+# Curso: Fundamentos de Programación (213022) - Fase 5
 # Estudiante: Juan Pablo Restrepo Marulanda
 # Programa: Ingeniería Electrónica - CEAD Medellín
 # Problema 4: Catálogo de Videoteca Digital
